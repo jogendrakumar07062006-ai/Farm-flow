@@ -94,8 +94,8 @@ Before running the project, make sure you have installed:
 ### 1️⃣ Fork & Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Farm-flo.git
-cd Farm-flo
+git clone https://github.com/jogendrakumar07062006-ai/Farm-flow.git
+cd Farm-flow
 ```
 
 ### 2️⃣ Install Backend Dependencies
